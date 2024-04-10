@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="becc714c-af1d-4193-9ef3-8ab0a14f6339" name="Changes" comment="" />
+    <list default="true" id="becc714c-af1d-4193-9ef3-8ab0a14f6339" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Model.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,18 +21,33 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2etS6KWo1HyXzVFicYm0U8lkuai" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.App.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.HDT8_ALT [clean].executor": "Run",
+    "Maven.HDT8_ALT [compile].executor": "Run",
+    "Maven.HDT8_ALT [install].executor": "Run",
+    "Maven.HDT8_ALT [package].executor": "Run",
+    "Maven.HDT8_ALT [test].executor": "Run",
+    "Maven.HDT8_ALT [validate].executor": "Run",
+    "Maven.HDT8_ALT [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,11 +60,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712722205723</updated>
-      <workItem from="1712722206751" duration="1000" />
+      <workItem from="1712722206751" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
